@@ -1,6 +1,7 @@
 #2022.08.19
 #1168 요세푸스 문제 2
 #bruteforce
+#시간초과 (2%)
 
 #import sys
 #sys.stdin.readline()
