@@ -1,4 +1,7 @@
+#2022.08.18
 #1168 요세푸스 문제 2
+#Segment Tree 구현 및 적용
+
 def build(pos, left, right):
     if left == right:
         data[pos] = item[left]
