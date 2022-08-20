@@ -1,5 +1,7 @@
 #2022.08.19
 #1168 요세푸스 문제 2
+#bruteforce
+
 #import sys
 #sys.stdin.readline()
 n, k = map(int, input().split())
